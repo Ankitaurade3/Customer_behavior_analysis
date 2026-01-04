@@ -1,10 +1,5 @@
 An End-to-End Customer Behavior Analytics Project Using Python, SQL & Tableau
 
-What: Customer Behavior Analytics.
-Why: Turning transactions and shopping data into insights to make improve the business.
-How: Python, SQL, Tableau
-Outcome: Actionable business intelligence and Answered Business questions
-
 📌 Project Overview
 
 This project showcases how customer transaction data can be converted into actionable business intelligence through an end-to-end analytics process. By combining data cleaning, SQL-based analysis, and interactive visualization, the project highlights how data supports smarter business decisions.
